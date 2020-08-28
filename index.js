@@ -4,8 +4,8 @@ const multiply = num1 * num2
 
 const random = (Math.random() * 10) + 1
 
-let num3 = 5
-let num4 = 9
+let num3 = 16
+let num4 = 20
 const mod = num4 % num3
 
 let num5 = 20
