@@ -8,5 +8,4 @@ let num3 = 16
 let num4 = 20
 const mod = num4 % num3
 
-let num5 = 20
-const max = Math.max(num1, num3, num4, num5)
+const max = Math.max(num1, num3, num4)
